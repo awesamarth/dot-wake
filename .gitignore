@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+Vendor/*.xcframework/
+dist/
+qa/
+evidence/
+backups/
+.DS_Store
+*.dmg
+*.zip
